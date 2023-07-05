@@ -1,2 +1,2 @@
-# Ludo
-Ludo is a board game.
+#Ludo
+A board game simulation.
